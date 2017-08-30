@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="shop-cache" target="1.7" />
+      <module name="shop-core" target="1.7" />
+      <module name="shop-dao" target="1.7" />
+      <module name="shop-parent" target="1.7" />
+      <module name="shop-service" target="1.7" />
+      <module name="shop-web" target="1.7" />
+      <module name="shop-www" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
